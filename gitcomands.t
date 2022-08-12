@@ -17,4 +17,8 @@ git branch <name>
     "new routes for changes that not modify the original project"
     git checkout <name>
         "move to the route <name>"
+<<<<<<< HEAD
         
+=======
+        @if (you see this) you are in newroutelogging@if
+>>>>>>> newroutelogging
