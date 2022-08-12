@@ -1,2 +1,4 @@
-console.log('Example of commands');
+function saludate(message){
+    console.log(mesage);
+}
 
