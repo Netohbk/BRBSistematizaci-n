@@ -20,3 +20,7 @@ app.get('/ty', (req, res) => {
     res.send('ruta ty'); 
 });
 
+
+app.listen(3000, () => {
+    console.log('Example listening in 3000')
+});
