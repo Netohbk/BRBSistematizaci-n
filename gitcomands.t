@@ -17,6 +17,8 @@ git branch <name>
     "new routes for changes that not modify the original project"
     git checkout <name>
         "move to the route <name>"
+    git checkout <1df3bd4> (commits)
+        "show in local the code until that time of commit <register>"
 <<<<<<< HEAD
         
 =======
