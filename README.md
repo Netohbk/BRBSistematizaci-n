@@ -1,3 +1,3 @@
 # BRBSistematizaci-n
 curso de prueba git
-si pude ingresar desde mi cuenta original
+# si pude ingresar desde mi cuenta original
