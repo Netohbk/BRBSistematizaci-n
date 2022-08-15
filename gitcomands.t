@@ -22,6 +22,12 @@ git branch <name>
 
 git revert HEAD
     "create a commit without update the last commit"        
+git reset --hard <register>
+    "delete the commits before" (not recommended)
+git commit --amend
+    "adds changes to the same commit"
+
+
 <<<<<<< HEAD
         
 =======
