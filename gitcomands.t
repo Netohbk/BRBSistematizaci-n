@@ -19,6 +19,9 @@ git branch <name>
         "move to the route <name>"
     git checkout <1df3bd4> (commits)
         "show in local the code until that time of commit <register>"
+
+git revert HEAD
+    "create a commit without update the last commit"        
 <<<<<<< HEAD
         
 =======
